@@ -51,7 +51,7 @@ These resources supported the development of the modules or could be useful when
 ## 🧪 How to Clone & Initialize Submodules
 
 ```bash
-git clone https://github.com/your-username/rest-api-main.git
+git clone https://github.com/FlavioKde/S402javaApiRestSpringBoot.git
 cd rest-api-main
 git submodule update --init --recursive
 Each module can be run independently:
