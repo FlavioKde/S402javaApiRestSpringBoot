@@ -1,0 +1,9 @@
+[submodule "S402javaApiRestSpringBootH2"]
+	path = S402javaApiRestSpringBootH2
+	url = https://github.com/FlavioKde/S402javaApiRestSpringBootH2.git
+[submodule "S402javaApiRestSpringBootSql"]
+	path = S402javaApiRestSpringBootSql
+	url = https://github.com/FlavioKde/S402javaApiRestSpringBootSql.git
+[submodule "S402javaApiRestSpringBootMongoDb"]
+	path = S402javaApiRestSpringBootMongoDb
+	url = https://github.com/FlavioKde/S402javaApiRestSpringBootMongoDb.git
